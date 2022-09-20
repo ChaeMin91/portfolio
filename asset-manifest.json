@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.498ee367.css",
+    "main.js": "/portfolio/static/js/main.d39c9871.js",
+    "static/js/996.728eacc1.chunk.js": "/portfolio/static/js/996.728eacc1.chunk.js",
+    "static/js/851.5223f408.chunk.js": "/portfolio/static/js/851.5223f408.chunk.js",
+    "static/js/456.1a6cfc3a.chunk.js": "/portfolio/static/js/456.1a6cfc3a.chunk.js",
+    "static/js/753.8ad7531b.chunk.js": "/portfolio/static/js/753.8ad7531b.chunk.js",
+    "static/js/24.19bb07af.chunk.js": "/portfolio/static/js/24.19bb07af.chunk.js",
+    "static/js/511.c71b56ee.chunk.js": "/portfolio/static/js/511.c71b56ee.chunk.js",
+    "static/js/51.9ef8750c.chunk.js": "/portfolio/static/js/51.9ef8750c.chunk.js",
+    "static/js/787.64772406.chunk.js": "/portfolio/static/js/787.64772406.chunk.js",
+    "static/js/974.821ebcc5.chunk.js": "/portfolio/static/js/974.821ebcc5.chunk.js",
+    "static/js/881.e3c9f607.chunk.js": "/portfolio/static/js/881.e3c9f607.chunk.js",
+    "index.html": "/portfolio/index.html",
+    "main.498ee367.css.map": "/portfolio/static/css/main.498ee367.css.map",
+    "main.d39c9871.js.map": "/portfolio/static/js/main.d39c9871.js.map",
+    "996.728eacc1.chunk.js.map": "/portfolio/static/js/996.728eacc1.chunk.js.map",
+    "851.5223f408.chunk.js.map": "/portfolio/static/js/851.5223f408.chunk.js.map",
+    "456.1a6cfc3a.chunk.js.map": "/portfolio/static/js/456.1a6cfc3a.chunk.js.map",
+    "753.8ad7531b.chunk.js.map": "/portfolio/static/js/753.8ad7531b.chunk.js.map",
+    "24.19bb07af.chunk.js.map": "/portfolio/static/js/24.19bb07af.chunk.js.map",
+    "511.c71b56ee.chunk.js.map": "/portfolio/static/js/511.c71b56ee.chunk.js.map",
+    "51.9ef8750c.chunk.js.map": "/portfolio/static/js/51.9ef8750c.chunk.js.map",
+    "787.64772406.chunk.js.map": "/portfolio/static/js/787.64772406.chunk.js.map",
+    "974.821ebcc5.chunk.js.map": "/portfolio/static/js/974.821ebcc5.chunk.js.map",
+    "881.e3c9f607.chunk.js.map": "/portfolio/static/js/881.e3c9f607.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.498ee367.css",
+    "static/js/main.d39c9871.js"
+  ]
+}
